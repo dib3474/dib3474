@@ -1,5 +1,5 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90&fontColor=a6ace6)
 
 <!--Body-->
 ## About Me
