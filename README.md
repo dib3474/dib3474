@@ -6,12 +6,6 @@
 #### I am a Student.
 - I’m currently learning java
   
-## Git Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dib3474&layout=compact" width="26%" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dib3474&show_icons=true&theme=default" width="34%" alt="GitHub Stats" />
-</p>
-
 ## Projects
 | Project | Description | Link |
 |:---|:---|:---|
@@ -19,6 +13,12 @@
 
 ## AWARDS
 - 카카오테크캠퍼스 3기 우수상(프론트엔드)
+
+## Git Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dib3474&layout=compact" width="26%" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dib3474&show_icons=true&theme=default" width="34%" alt="GitHub Stats" />
+</p>
 
 ## How to Contact Me
 - Email: dib3474@gmail.com
