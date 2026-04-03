@@ -13,11 +13,12 @@
 
 ## AWARDS
 - 카카오테크캠퍼스 3기 우수상(프론트엔드)
+- PNU AI BOOSTER 우수상
 
 ## Git Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dib3474&layout=compact" width="26%" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dib3474&show_icons=true&theme=default" width="34%" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dib3474&show_icons=true&theme=github_dark&hide_border=true&hide=stars&show=reviews&count_private=true&custom_title=My%20Github%20Stats&card_width=300px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dib3474&layout=compact&theme=github_dark&hide_border=true&card_width=300px" />
 </p>
 
 ## How to Contact Me
